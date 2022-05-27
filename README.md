@@ -22,9 +22,9 @@ takes as input the Zernike vector of the image given by the user, browses the wh
 <hr>
 
 
-<b> test_images_for_zernike/ contains images </b> : images to test the system 
-<b>  static/DataBase conatins json file </b> : this json file conatins a map name of status : calculated zernike vector { statuName1 : vector1 , ....
-<b>  static/bardo_pcd_pics conatins images </b> : images available in our DataBase
+<p> <b> test_images_for_zernike/ contains images </b> : images to test the system </p>  
+<p> <b>  static/DataBase conatins json file </b> : this json file conatins a map name of status : calculated zernike vector { statuName1 : vector1 , .... </p> 
+<p> <b>  static/bardo_pcd_pics conatins images </b> : images available in our DataBase </p> 
 
 <hr>
 
