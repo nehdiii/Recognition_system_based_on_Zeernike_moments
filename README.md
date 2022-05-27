@@ -5,7 +5,27 @@
 
   <hr>
 
- <b> ZernikeMomnets.py contains ZernikeMoments Class </b> Its only method is Descriptor. This method takes a processed image from the TestGenerateZernikeVector method of the class ZernikeVectorGenerator and returns the calculated Zernike moment.
+ <b> ZernikeMomnets.py contains ZernikeMoments Class </b>: Its only method is Descriptor. This method takes a processed image from the TestGenerateZernikeVector method of the class ZernikeVectorGenerator and returns the calculated Zernike moment.
   
  <hr>
+ 
+ <b>OptimalSimilartyMeasure.py contains OptimalSimilarityMeasure Class </b> :  which calculates the optimal measure based on the (See Chapter 3 section 3.10.3 and 3.10.4 in the attached Rapport) using the methods ComputeC, ComputeAq, ComputeBq, ComputeAq_Bq_over_q, Overall_func_d, Overall_func_deriv_d
+ 
+ <hr>
+ 
+ 
+ <b> Searcher.py contains  SearcherOptimal Class </b> : It has as attribute the JSON file which contains the moments
+of all the stored images. It has a single Search method which
+takes as input the Zernike vector of the image given by the user, browses the whole JSON file and computes the difference (score) between the moment of the image provided by the user with that of each image. Then it will create a list of tuples: image name + its score. An ascending sort according to the value of the score will be done.
+
+
+<hr>
+
+<b> test_images_for_zernike contains images </b> images to test the system 
+
+<hr>
+
+
+
+
 
