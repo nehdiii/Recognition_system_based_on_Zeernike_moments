@@ -2,6 +2,7 @@
 
 <img src="https://www.businessnews.com.tn/images/album/IMGBN79505Musee-Bardo-160921.jpg"  width="1100" height="400">
 
+<p> In some cases, tourists have difficulty in recognizing the statues and mosaics of our country mosaics of our country precisely in the Bardo museum. It is in this context that the project in question which consists in developing a system of recognition of the heritage of the Bardo Museum. To finally make the recognition of statues and mosaics, we simply take a picture and it is the computer do the task of recognition and return a full description of this work (statue and / or mosaic)
 
 
 
