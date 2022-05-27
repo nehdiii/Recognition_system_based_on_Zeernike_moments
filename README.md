@@ -34,4 +34,11 @@ takes as input the Zernike vector of the image given by the user, browses the wh
 <p> <b> DeepLearningMethodForSegmentation/saved_models/basnet_bsi/ </b> : conatins the pretrained BASNet model you can get the model from this link <a href="https://drive.google.com/drive/folders/0ALgJk0-1IlPaUk9PVA">PreTrained Model</a> and just download it and past it in this file   </p> 
 <p> <b> DeepLearningMethodForSegmentation/train_data/ </b> : conatins the Data For training the sgmentation model BASNet you can get data from this link  <a href="https://drive.google.com/drive/folders/0ALgJk0-1IlPaUk9PVA">Data for Training</a> or from the offcial site from here  <a href="http://saliencydetection.net/duts/">Data from offical website</a> </p> 
 
+<hr>
+
+<p> <b> DeepLearningMethodForSegmentation/basnet_test.py </b> : to make some inference on model after training  
+<p> <b> DeepLearningMethodForSegmentation/basnet_train.py/ </b> : to train the model 
+<p> <b> DeepLearningMethodForSegmentation/data_loader.py/ </b> : dataloader help the model to load data     
+
+
 
