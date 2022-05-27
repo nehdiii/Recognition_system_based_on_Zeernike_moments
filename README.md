@@ -28,5 +28,10 @@ takes as input the Zernike vector of the image given by the user, browses the wh
 
 <hr>
 
+<p> <b> DeepLearningMethodForSegmentation/model/ </b> : conatins the implementation of BASNet architecture </p> 
+<p> <b> DeepLearningMethodForSegmentation/pytorch_iou/ </b> : conatins the implementation of intersection over union loss</p> 
+<p> <b> DeepLearningMethodForSegmentation/pytorch_ssim/ </b> : conatins the implementation structural similarty loss </p> 
+<p> <b> DeepLearningMethodForSegmentation/saved_models/basnet_bsi/ </b> : conatins the pretrained BASNet model you can get the model from this link <a href="https://drive.google.com/drive/folders/0ALgJk0-1IlPaUk9PVA">PreTrained Model</a> and just download it and past it in this file   </p> 
+<p> <b> DeepLearningMethodForSegmentation/model/ </b> : conatins the implementation of BASNet architecture </p> 
 
 
